@@ -66,17 +66,18 @@ body {
   }
   .dropdown-content a:hover {background-color: #f1f1f1;}
   
-  
+  .welcome-div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: white;
+  }
   
   
   h1 {
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 50px;
-    padding: 10px;
-    background-color: crimson;
     width: 300px;
-    margin: 0 auto;
-    margin-top: 40px;
   }
   
