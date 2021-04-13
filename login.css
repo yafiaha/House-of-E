@@ -98,27 +98,17 @@ input[type=password]{
     font-family: 'Poppins', sans-serif;
 }
 input[type=submit]{
-    padding: 12px 20px;
+    padding: 6px 10px;
     font-family: 'Poppins', sans-serif;
-    color: black;
+    color: white;
     font-weight: bold;
-    background-color: dodgerblue;
+    background-color: #004A94;
     border: 5px solid #333;
     border-radius: 4px;
     cursor: pointer;
 
 }
-input[type=submit]:hover{
-    padding: 12px 20px;
-    font-family: 'Poppins', sans-serif;
-    color: black;
-    font-weight: bold;
-    background-image: linear-gradient(orange, yellow);
-    border: 5px solid #333;
-    border-radius: 4px;
-    cursor: pointer;
 
-}
 h1{
     font-family: 'Poppins', sans-serif;
 }
